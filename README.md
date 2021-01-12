@@ -1,2 +1,7 @@
-# times_de_futebol
-Projeto front-end feito para o processo seletivo de um projeto de pesquisa do IFBA. Entre os arquivos, deixei a imagem do layout em funcionamento. Projeto desenvolvido por meio do framework AngularDart.
+# times_futebol
+
+A web app that uses [AngularDart](https://angulardart.dev) and
+[AngularDart Components](https://angulardart.dev/components).
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
